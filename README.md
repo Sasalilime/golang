@@ -1,1 +1,1 @@
-# golang-cours
+# golang
